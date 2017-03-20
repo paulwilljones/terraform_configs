@@ -1,4 +1,4 @@
-#Basic Two-Tier AWS Architecture
+# Basic Two-Tier AWS Architecture
 
 Run with a command like this:
 
